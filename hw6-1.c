@@ -13,7 +13,6 @@ int isPrime(int n) {
 
 int main() {
     int max;
-    printf("Enter max: ");
     scanf("%d", &max);
 
     for (int i = 2; i < max; i++) {
